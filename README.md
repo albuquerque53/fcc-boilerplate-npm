@@ -5,3 +5,4 @@
 - [X] Host the project (must have a public URL)
 - [X] Create an `"author"` key in `package.json`
 - [X] Add a `"description"` key
+- [X] Add the `"keywords"` key
