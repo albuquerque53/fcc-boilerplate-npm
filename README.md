@@ -6,3 +6,4 @@
 - [X] Create an `"author"` key in `package.json`
 - [X] Add a `"description"` key
 - [X] Add the `"keywords"` key
+- [X] Add the `"license"` field
