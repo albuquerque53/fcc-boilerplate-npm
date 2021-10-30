@@ -1,8 +1,10 @@
-# FCC Back-end Development and APIs - Managing Packages with NPM
+## FCC Back-end Development and APIs - Managing Packages with NPM 📦
+
+The basics of using npm, including how to work with the package.json and how to manage installed dependencies.
 
 > URL: https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
 
-## Challenges:
+### Challenges:
 
 - [X] Host the project (must have a public URL)
 - [X] Create an `"author"` key in `package.json`
@@ -15,3 +17,5 @@
 - [X] Allow auto patch fixes updates for `moment` package (using the `~` character)
 - [X] Allow auto minor version updates for `moment` package (using the `^` character)
 - [X] Remove the `"moment"` package
+
+**All challenges have been solved 🏆**
