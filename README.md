@@ -1,2 +1,7 @@
 # Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+
+> https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
+
+- [X] Host the project (must have a public URL)
+- [X] Create an `"author"` key in `package.json`
+- [ ] Add a `"description"` key
