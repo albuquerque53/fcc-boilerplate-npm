@@ -1,6 +1,8 @@
-# Backend Challenges boilerplate - package.json
+# FCC Back-end Development and APIs - Managing Packages with NPM
 
-> https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
+> URL: https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
+
+## Challenges:
 
 - [X] Host the project (must have a public URL)
 - [X] Create an `"author"` key in `package.json`
