@@ -4,4 +4,4 @@
 
 - [X] Host the project (must have a public URL)
 - [X] Create an `"author"` key in `package.json`
-- [ ] Add a `"description"` key
+- [X] Add a `"description"` key
