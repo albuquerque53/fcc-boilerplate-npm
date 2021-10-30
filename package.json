@@ -10,9 +10,9 @@
     "challenges"
   ],
   "license": "MIT",
-  "version": "1.5.2",
+  "version": "1.0.0",
   "dependencies": {
-    "moment": "2.14.0",
+    "moment": "2.10.2",
     "express": "^4.14.0"
   },
   "main": "server.js",

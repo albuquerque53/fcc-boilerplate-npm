@@ -9,3 +9,4 @@
 - [X] Add the `"license"` field
 - [X] Add the `"version"` field
 - [X] Require the `"moment"` package in v`2.14.0`
+- [X] According with SemVer change the `moment` to MJ: 2, MN: 10 and PT: 2
