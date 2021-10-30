@@ -11,3 +11,4 @@
 - [X] Require the `"moment"` package in v`2.14.0`
 - [X] According with SemVer change the `moment` to MJ: 2, MN: 10 and PT: 2
 - [X] Allow auto patch fixes updates for `moment` package (using the `~` character)
+- [X] Allow auto minor version updates for `moment` package (using the `^` character)
