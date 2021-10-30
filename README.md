@@ -8,3 +8,4 @@
 - [X] Add the `"keywords"` key
 - [X] Add the `"license"` field
 - [X] Add the `"version"` field
+- [X] Require the `"moment"` package in v`2.14.0`
