@@ -7,3 +7,4 @@
 - [X] Add a `"description"` key
 - [X] Add the `"keywords"` key
 - [X] Add the `"license"` field
+- [X] Add the `"version"` field
